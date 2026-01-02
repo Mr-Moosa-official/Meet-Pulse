@@ -2,10 +2,10 @@
 
 import { useState, useTransition, useEffect } from 'react';
 import { useToast } from "@/hooks/use-toast";
-import { Header } from '@/components/meeting-ai/header';
-import { MeetingControls } from '@/components/meeting-ai/meeting-controls';
-import { TranscriptView } from '@/components/meeting-ai/transcript-view';
-import { AnalysisDashboard } from '@/components/meeting-ai/analysis-dashboard';
+import { Header } from '@/components/meetpulse/header';
+import { MeetingControls } from '@/components/meetpulse/meeting-controls';
+import { TranscriptView } from '@/components/meetpulse/transcript-view';
+import { AnalysisDashboard } from '@/components/meetpulse/analysis-dashboard';
 import { processTranscript, type AnalysisResult } from '@/app/actions';
 import { mockTranscript } from '@/lib/mock-data';
 
