@@ -10,7 +10,7 @@ MeetPulse AI helps users:
 
 Transcribe meetings in real time
 
-Generate AI-powered summaries
+Generate  AI-powered summaries
 
 Extract action items automatically
 
