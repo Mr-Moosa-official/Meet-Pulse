@@ -12,7 +12,7 @@ Transcribe meetings in real time
 
 Generate  AI-powered summaries
 
-Extract action items automatically
+Extract action items automatically 
 
 Analyze meeting sentiment
 
