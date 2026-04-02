@@ -1,6 +1,6 @@
 # 🎙️ MeetPulse AI – Smart Meeting Intelligence Platform
 
-MeetPulse AI is an AI-powered meeting assistant that transforms live conversations into actionable insights. It captures meetings in real time, transcribes discussions, summarizes key points, extracts action items, analyzes sentiment, and highlights important keywords — all through a clean, modern interface.
+MeetPulse  AI is an AI-powered meeting assistant that transforms live conversations into actionable insights. It captures meetings in real time, transcribes discussions, summarizes key points, extracts action items, analyzes sentiment, and highlights important keywords — all through a clean, modern interface.
 
 The app is designed for teams, professionals, and remote workers who want clarity, accountability, and better outcomes from meetings.
 
